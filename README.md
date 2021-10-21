@@ -18,9 +18,12 @@
  
 </p>
  <br/>
+    <p align="center">
     <a href="https://github.com/poulami08/github-readme-stats"><img alt="poulami's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poulami08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </p>
+   <p align="center">
     <a href="https://github.com/poulami08/github-readme-stats"><img alt="poulami's Github Stats" src="https://github-readme-stats.vercel.app/api?username=poulami08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  
+  </p>
   <br/>
 
 </p>
